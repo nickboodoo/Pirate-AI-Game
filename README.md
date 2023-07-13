@@ -1,14 +1,3 @@
-# cs370
+# Pirate AI Game
 
-Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
-Project 2 had the Keras and dependent libraries for the neural network. I had to create each episode, epoch loop, and other facets of the nerural network. I also had to ensure that the win/loss states were favorable.
-
-
-What do computer scientists do and why does it matter?
-Computer scientists work to create solutions that are efficient and effective. It matters because this is a growing field and eerything that we do builds on itself and becomes more and more complex. 
-
-How do I approach a problem as a computer scientist?
-As a computer scientist, I approach problem solving by first identifying the problem. After I identify the problem, I can begine to work on efficient solutions to the problem. This is when I can also consider ethical issues with my solution and try to work them out. 
-
-What are my ethical responsibilities to the end user and the organization?
-It is my responsibility to protect people's data when it comes into my contact. I need to ensure that I am creating secure programs that will not jeopardize data. 
+For this project I wanted to learn more about neural networks and to do that I decided to make a maze/puzzle type game and have an AI traverse the levels. This was written in python in jupyter notebooks. Before I became a software engineer, I was a forensics scientist and I was always fascinated by neuorology and the concept of neural networks, so I had a lot of fun working on this project. 
